@@ -27,6 +27,7 @@
 ### **📊 Business Analysis Queries**
 
 1️⃣ **Overall Sales Performance**
+
 <img width="626" height="178" alt="Screenshot 2026-03-10 115716" src="https://github.com/user-attachments/assets/81b280a8-1166-4f28-bc23-311995057d4b" />
 
 - This query calculates the overall health of the sales pipeline by measuring the total number of opportunities, total revenue generated, and the number of successful deals.
@@ -35,6 +36,7 @@
   - A low conversion rate indicates that many deals are getting stuck or lost in the pipeline.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
 2️⃣ **Monthly Revenue Trend**
+
 <img width="537" height="197" alt="image" src="https://github.com/user-attachments/assets/5839245f-409c-4760-80fa-59befba27bd4" />
 
 - This query analyzes revenue growth over time.
@@ -44,6 +46,7 @@
   - Sales managers can use this insight to forecast future revenue and plan strategies.
 ---
 3️⃣ **Deal Stage Distribution**
+
 <img width="511" height="130" alt="image" src="https://github.com/user-attachments/assets/c9ef76e2-16b9-4dcd-8313-57e3a88323de" />
 
 - This query shows the distribution of deals across different pipeline stages.
@@ -53,6 +56,7 @@
   - Helps identify stages that require process improvement.
 ---
 4️⃣ **Revenue by Product**
+
 <img width="561" height="153" alt="image" src="https://github.com/user-attachments/assets/69d27f17-c8ee-4ba3-8ce6-4fc4ba230425" />
 
 - This query identifies top-performing products.
@@ -62,6 +66,7 @@
   - Low-performing products may require pricing adjustments or promotion strategies.
 --- 
 5️⃣ **Top Performing Sales Agents**
+
 <img width="601" height="182" alt="image" src="https://github.com/user-attachments/assets/41aaa41e-a212-4b78-938c-bd2216ba42b7" />
 
 - This query identifies the top revenue-generating sales agents.
@@ -71,6 +76,7 @@
   - It also helps identify agents who may need training or performance improvement.
 ---
 6️⃣ **Revenue by Industry Sector**
+
 <img width="553" height="180" alt="image" src="https://github.com/user-attachments/assets/fc3484a0-eba4-4417-aae1-11389b3b06b5" />
 
 - This query analyzes which industry sectors generate the highest revenue.
@@ -80,6 +86,7 @@
   - It also helps businesses identify new market opportunities.
 ---
 7️⃣ **Top Customers**
+
 <img width="557" height="213" alt="image" src="https://github.com/user-attachments/assets/7c6b213b-ef96-4e53-aae9-feddd2a7bd1b" />
 
 - This query identifies the most valuable customers.
