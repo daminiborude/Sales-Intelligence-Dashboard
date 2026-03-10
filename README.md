@@ -27,3 +27,9 @@
 ### **📊 Business Analysis Queries**
 
 <img width="626" height="178" alt="Screenshot 2026-03-10 115716" src="https://github.com/user-attachments/assets/81b280a8-1166-4f28-bc23-311995057d4b" />
+
+- This query calculates the overall health of the sales pipeline by measuring the total number of opportunities, total revenue generated, and the number of successful deals.
+- Insight from Dashboard:
+1. The conversion rate between opportunities and won deals helps evaluate sales team effectiveness.
+2. A low conversion rate indicates that many deals are getting stuck or lost in the pipeline.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
